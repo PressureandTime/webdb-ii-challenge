@@ -9,5 +9,16 @@
   "author": "Lambda School",
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PressureandTime/webdb-ii-challenge.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PressureandTime/webdb-ii-challenge/issues"
+  },
+  "homepage": "https://github.com/PressureandTime/webdb-ii-challenge#readme"
 }

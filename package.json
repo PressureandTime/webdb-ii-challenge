@@ -8,6 +8,24 @@
   },
   "author": "Lambda School",
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0",
     "nodemon": "^1.19.1"
-  }
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.0",
+    "sqlite": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PressureandTime/webdb-ii-challenge.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PressureandTime/webdb-ii-challenge/issues"
+  },
+  "homepage": "https://github.com/PressureandTime/webdb-ii-challenge#readme"
 }
